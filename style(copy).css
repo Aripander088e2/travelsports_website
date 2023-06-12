@@ -1,0 +1,40 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #222;
+}
+
+li {
+  float:left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #000 (black) on hover */
+li a:hover {
+  background-color: #000;
+}
+/*BLACK IS #000 */
+
+#tennis {color: green}
+
+img {
+width: 20px;
+
+
+  
+}
+h1{color:black;
+	background: white;
+	size: 46 px;
+	font-family: Arial}
+
+h2{font-family: Arial}
